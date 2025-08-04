@@ -1,0 +1,3 @@
+high_coeff low_coeff mid_coeff are generated using matalb for the particular freq ranges as mention in the readme.
+<br>
+SPI_main is for the pmod mic, da2 is for the dac , FIR_filter is for filtering purpose and top module consist of all the instantiation.
